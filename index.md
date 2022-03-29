@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi! This is Miyuki's safe space <3
 
 You can use the [editor on GitHub](https://github.com/mimimimiyuki/mimimimiyuki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
