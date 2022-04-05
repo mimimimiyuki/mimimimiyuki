@@ -1,6 +1,6 @@
 <header1>songs you should listen to once in a while
 
-You can use the [editor on GitHub](https://github.com/mimimimiyuki/mimimimiyuki/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/mimimimiyuki/mimimimiyuki/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown fi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
